@@ -3,14 +3,7 @@ The GenAI Forecasting Agent · LLMs × Time Series Foundation Models
 
 ---
 
-OAB-forecast is an open-source forecasting agent that combines the power of large language models with state-of-the-art time series foundation models (Amazon Chronos, Salesforce Moirai, Google TimesFM, Nixtla TimeGPT, etc.). It automates and explains complex forecasting workflows, making time series analysis more accessible while maintaining professional-grade accuracy.
-
----
-
-!!! tip "Want the latest on OAB-forecast?"
-    Have ideas or want to test it in real-world use? Join our [Discord community](https://discord.gg/7GEdHR6Pfg) and help shape the future.
-
----
+OAB-forecast is an open-source forecasting agent that combines the power of large language models with state-of-the-art time series foundation models (Amazon Chronos, Salesforce Moirai, Google TimesFM, Nixtla TimeGPT, etc.). It automates and explains complex forecasting workflows, making time series analysis more accessible while maintaining professional-grade 
 
 ## How It Works
 
