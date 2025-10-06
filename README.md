@@ -14,13 +14,6 @@ OAB-forecast is a generative agent that applies a systematic forecasting approac
 - Explain technical decisions in natural language
 - Answer domain-specific questions about forecasts
 
-Here is a schematic of OAB-forecast's architecture:
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3ae3c8cb-bcc5-46cd-b80b-a606671ba553" alt="Diagram" width="500"/>
-</p>
-
---- 
 
 ## Quickstart in 30 sec
 
