@@ -242,8 +242,7 @@ You can ask other types of questions:
 ## Next Steps
 
 1. **Try OAB-forecast**: 
-    - Check out the examples above
-    - Join our [Discord server](https://discord.gg/7GEdHR6Pfg) for community support
+    - Check out the examples above 
     - Share your use cases and feedback
 2. **Contribute**:
     - We are passionate about contributions!
