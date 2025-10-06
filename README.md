@@ -269,8 +269,5 @@ You can ask other types of questions:
     - Watch for new releases!
 
 
-## How to cite?
-
-OAB-forecast whitepaper (coming soon).
 
 
